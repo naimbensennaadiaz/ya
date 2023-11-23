@@ -1,0 +1,33 @@
+.almohadilla{
+    background-color: rgb(41, 8, 161);
+    width: 10%;
+}
+.titulo{
+    background-color: rgb(41, 8, 161) ;
+    width: 20%;
+}
+.album{
+    background-color:  rgb(41, 8, 161);
+    width: 20%;
+}
+.data{
+    background-color:  rgb(41, 8, 161);
+    width: 50%;
+}
+.duracion{
+    background-color:  rgb(41, 8, 161);
+}
+header{
+    display: flex;
+}
+body{
+    background-color: black;
+}
+section{
+    display: flex;
+    height: fit-content;
+}
+.uno{
+    background-color: yellow;
+   height: fit-content;
+} 
